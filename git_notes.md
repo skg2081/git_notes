@@ -1,4 +1,3 @@
-```
 **********************
 GIT CHEAT SHEET
 **********************
@@ -176,4 +175,3 @@ Example Workflow
 10. Delete the feature branch locally and remotely:
     git branch -d feature_branch
     git push origin --delete feature_branch
-```
