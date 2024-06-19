@@ -4,7 +4,7 @@ GIT CHEAT SHEET
 ======
 Basic Git Commands
 ======================
-
+======
 Configuration
 -------------
 Set user name:
