@@ -3,7 +3,6 @@ GIT CHEAT SHEET
 **********************
 ===================
 Basic Git Commands
-======================
 
 Configuration
 -------------
